@@ -12,7 +12,7 @@ Collection of Python exercises and small projects completed during coursework at
 ## Skills Practiced
 - Variables, loops, conditionals
 - Functions and user input
-- File I/O and string processing
+- ML 
 - Lists, dictionaries, basic algorithms
 - Error handling and debugging
 
