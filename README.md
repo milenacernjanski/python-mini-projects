@@ -20,7 +20,8 @@ Collection of Python exercises and small projects completed during coursework at
 1. Clone repository
 2. Open terminal/command prompt
 3. Navigate to any project folder
-4. Run: python filename.py
+4. Import needed file if running the notebook
+5. Run: python filename.ipynb
 
 **Note:** These are educational exercises - perfect for reviewing Python fundamentals and coursework completion.
 
